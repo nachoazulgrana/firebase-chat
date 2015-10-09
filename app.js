@@ -1,4 +1,4 @@
-		  var myDataRef = new Firebase('https://mmufnodsmdf.firebaseio-demo.com/');
+		  var myDataRef = new Firebase('https://incandescent-inferno-8327.firebaseio.com/');
 		  $('#messageInput').keypress(function (e) {
 		    if (e.keyCode == 13) {
 		      var name = $('#nameInput').val();
